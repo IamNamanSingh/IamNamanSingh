@@ -4,7 +4,7 @@
   <samp>
     My name is <em>Naman Singh</em>. I am a Frontend 'n' ML developer... 
   <br/> Fullstack'n' AL enthusiast... wanna make some AI stuff. 
-    <br/> (<em>ex</em>)Fulltime student.
+    <br/> Fulltime student.
       <br/>         
 continuously learning, wanting to help the community
   </samp>

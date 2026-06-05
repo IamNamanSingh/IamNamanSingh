@@ -146,9 +146,7 @@ B.Tech CSE (AI & ML) Student at VIT Bhopal University | Machine Learning Enthusi
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamNamanSingh&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IamNamanSingh&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamNamanSingh&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IamNamanSingh&theme=tokyonight)
 

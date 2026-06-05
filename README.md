@@ -144,17 +144,13 @@ B.Tech CSE (AI & ML) Student at VIT Bhopal University | Machine Learning Enthusi
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamNamanSingh&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamNamanSingh&theme=tokyonight)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IamNamanSingh&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamNamanSingh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IamNamanSingh&theme=tokyonight)
 
 ---
 

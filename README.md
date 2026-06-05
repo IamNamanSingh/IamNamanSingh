@@ -145,24 +145,24 @@ B.Tech CSE (AI & ML) Student at VIT Bhopal University | Machine Learning Enthusi
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IamNamanSingh&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IamNamanSingh&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamNamanSingh&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IamNamanSingh&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IamNamanSingh&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamNamanSingh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/IamNamanSingh/IamNamanSingh/blob/output/github-contribution-grid-snake.svg)
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IamNamanSingh/IamNamanSingh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ## 🤝 Connect With Me
 
